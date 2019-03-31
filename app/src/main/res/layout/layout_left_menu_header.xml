@@ -23,12 +23,12 @@
             app:riv_border_color="#fff"
             app:riv_oval="true" />
 
-        <com.example.zeeshankhalid.nytimesapiconsumption.views.RobotoLightTextView
+        <com.android.nytimes.views.RobotoLightTextView
             android:id="@+id/tvEmail"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginLeft="@dimen/twenty_dp"
-            android:text="email@dummy.com"
+            android:text="zia_shahid50@yahoo.com"
             android:textColor="#fff"
             android:textSize="@dimen/sp_sixteen" />
 

@@ -15,10 +15,6 @@ import com.android.nytimes.R;
 import com.android.nytimes.controllers.interfaces.MenuClickedListener;
 
 
-/**
- * Created by khalidz on 10/20/2017.
- */
-
 public class Toolbar extends RelativeLayout {
     public Toolbar(Context context) {
         super(context);

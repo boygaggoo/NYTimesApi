@@ -7,7 +7,7 @@
     android:layout_height="match_parent"
     tools:context=".MainActivity">
 
-    <com.example.zeeshankhalid.nytimesapiconsumption.views.Toolbar
+    <com.android.nytimes.views.Toolbar
         android:id="@+id/toolbar"
         android:layout_width="match_parent"
         android:layout_height="wrap_content" />
@@ -23,7 +23,7 @@
             android:layout_width="match_parent"
             android:layout_height="match_parent" />
 
-        <com.example.zeeshankhalid.nytimesapiconsumption.views.LeftMenu
+        <com.android.nytimes.views.LeftMenu
             android:id="@+id/leftMenu"
             android:layout_width="@dimen/left_menu_width"
             android:layout_height="match_parent"

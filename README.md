@@ -42,13 +42,14 @@ The App has following features:
 - Glide (set URL image to image view)
 
 # Screenshot
-   [![Loading](https://raw.githubusercontent.com/boygaggoo/NYTimesApiConsumption/master/screenshots/Screenshot_20180806-165926.png)]()
-   [![list results with search field](https://raw.githubusercontent.com/boygaggoo/NYTimesApiConsumption/master/screenshots/Screenshot_20180806-165934.png)]()
-   [![Search Screen with sub menu](https://github.com/boygaggoo/NYTimesApiConsumption/raw/master/screenshots/Screenshot_20180806-165943.png)]()
-   [![Side Drawer](https://github.com/boygaggoo/NYTimesApiConsumption/raw/master/screenshots/Screenshot_20180806-170421.png)]()
+   [![Loading](https://raw.githubusercontent.com/boygaggoo/NYTimesApi/master/screenshots/Screenshot_20180806-165926.png)]()
+   [![list results with search field](https://raw.githubusercontent.com/boygaggoo/NYTimesApi/master/screenshots/Screenshot_20180806-165934.png)]()
+   [![Search Screen with sub menu](https://raw.githubusercontent.com/boygaggoo/NYTimesApi/master/screenshots/Screenshot_20180806-165943.png)]()
+   [![Side Drawer](https://raw.githubusercontent.com/boygaggoo/NYTimesApi/master/screenshots/Screenshot_20180806-170421.png)]()
 
 # Video
-   [![App Video](https://github.com/boygaggoo/NYTimesApiConsumption/blob/master/video/20180806_171358.mp4](https://github.com/boygaggoo/NYTimesApiConsumption/blob/master/video/20180806_171358.mp4)
+   [Demo Video](https://raw.githubusercontent.com/boygaggoo/NYTimesApi/master/video/20180806_171358.mp4)
 
 # Contact
-- ##### email (zia_shahid50@yahoo.com)
+ ##### email (zia_shahid50@yahoo.com)
+ 
